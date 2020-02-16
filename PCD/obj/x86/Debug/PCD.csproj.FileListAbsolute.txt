@@ -1,0 +1,26 @@
+D:\160340078_ Syaeful Amri\PCD\PCD\bin\Debug\PCD.exe
+D:\160340078_ Syaeful Amri\PCD\PCD\bin\Debug\PCD.pdb
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.Form1.resources
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.Properties.Resources.resources
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.exe
+D:\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.pdb
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.exe
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.pdb
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\bin\Debug\PCD.exe
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\bin\Debug\PCD.pdb
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.Form1.resources
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.Properties.Resources.resources
+G:\kuliah\160340078_ Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.csproj.GenerateResource.Cache
+C:\Users\Keceklu-kun\Music\PCD\PCD\obj\x86\Debug\PCD.exe
+C:\Users\Keceklu-kun\Music\PCD\PCD\obj\x86\Debug\PCD.pdb
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.exe
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.pdb
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\bin\Debug\PCD.exe
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\bin\Debug\PCD.pdb
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.csprojResolveAssemblyReference.cache
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.Form1.resources
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.Properties.Resources.resources
+D:\kuliah\1603040078_Syaeful Amri\PCD\PCD\obj\x86\Debug\PCD.csproj.GenerateResource.Cache
